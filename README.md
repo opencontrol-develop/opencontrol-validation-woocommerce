@@ -36,8 +36,9 @@ Para configurar el módulo desde el panel de administración de Wordpress de la 
 ![Configuration.png](https://img.openpay.mx/plugins/opencontrol_woocommerce_configuration.png)
 
 - Comentarios personalizados en las órdenes procesadas.
+
 ![Denied_status.png](https://img.openpay.mx/plugins/opencontrol_woocommerce_denied.png)
-![Denied_status.png](https://img.openpay.mx/plugins/opencontrol_woocommerce_approved.png)
+![Approved_status.png](https://img.openpay.mx/plugins/opencontrol_woocommerce_approved.png)
 
 
 #### Notas
